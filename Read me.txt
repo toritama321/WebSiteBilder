@@ -1,13 +1,14 @@
 作成日　2025/11/03
+更新日　2025/11/12
 
 ------------------------------------------------------------------------------------
 ## WebSiteBilder
-## Ver.0.1.0（α版）
+## Ver.0.2.0（β版）
 ------------------------------------------------------------------------------------
 
 【概要】
 このアプリは、いわゆる「うちのこまとめ」のサイトを、そこそこ簡単に作成できるアプリです。
-Windows専用で動作します。
+Windows専用で、Windows11でのみ動作を確認しています。
 
 
 【使い方】
@@ -20,7 +21,7 @@ https://separate-honey-e9b.notion.site/WebSiteBilder-29b3cf704d4e80a986dee603c37
 
 
 【フォルダ構成】
-・websitebilder_v0.1.0.exe：アプリ本体
+・websitebilder_v0.2.0.exe：アプリ本体
 ・Read me.txt：このファイル
 
 
@@ -37,5 +38,7 @@ C:\Users\<ユーザー名>\AppData\Roaming\webb
 
 【お問い合わせ】
 バグ報告・改善要望などは 開発者まで連絡してください。
-・X（旧Twitter）：＠toritama_321
-（上記アカウントと繋がっていない方はこちら → ＠toribird_4）
+X（旧Twitter）：＠toritama_321（このアカウントと繋がっていない方はこちら → ＠toribird_4）
+
+Googleフォームから匿名で送ることもできます（返答ができませんのでご注意ください）。
+https://docs.google.com/forms/d/e/1FAIpQLScNcGXJi5BFdXR4pQ6U27tXenSULhsPA7MI_oTg-NjSNGrwaA/viewform?usp=header
